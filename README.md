@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Awari</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **Game SandBox**
+- 🔭 I’m currently working on **PODCAST PLATFORM**
 
 - 🌱 I’m currently learning **Nextjs**
 
